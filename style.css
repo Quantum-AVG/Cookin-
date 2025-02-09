@@ -16,7 +16,6 @@ nav {
     padding: 10px;
     border: 1px solid black;
     border-radius: 25px;
-    align-items: center;
 }
 
 nav a {
@@ -25,7 +24,8 @@ nav a {
     border-radius: 25px;
     text-decoration: none;
     padding: 7px;
-    margin: 25px;
+    margin: 80px;
+    font-size: 20px;
 }
 
 h1 {
